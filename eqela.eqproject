@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tuesday101
+#
+
+projectname: tuesday101
+vendorid: com.edward.example
+mainmodule: com.edward.example.tuesday101
